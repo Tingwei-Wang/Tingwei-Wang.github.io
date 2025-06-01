@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Tingwei Wang"
+excerpt: "PhD Applicant in Environmental Economics | M.A. in Management | Quantitative Policy Researcher"
 author_profile: true
 redirect_from: 
   - /about/
