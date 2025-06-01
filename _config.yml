@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tingwei Wang's Homepage"
-description              : "Welcome to my academic homepage where I share my research, projects, and updates."
+description              : 
 repository               : "Tingwei-Wang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tingwei Wang 王婷伟"
+  name             : "Tingwei Wang<br>王婷伟"
   avatar           : "images/myphoto.jpg"
   bio              : "Graduate student at University of Chinese Academy of Sciences"
   location         : "Beijing, China"
