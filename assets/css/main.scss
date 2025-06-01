@@ -107,3 +107,13 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+.author__avatar,
+.author__content {
+  text-align: center;
+}
+
+.author__name {
+  display: inline-block;
+  text-align: center;
+  line-height: 1.4;
+}
