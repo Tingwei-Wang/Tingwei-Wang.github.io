@@ -80,6 +80,6 @@ Currently, I am actively applying for PhD positions in **Environmental Economics
 
 # 📫 Contact
 
-- 📧 Email: your.email@example.com  
+- 📧 Email: wangtingwei21@mails.ucas.ac.cn  
 - 📄 [Download CV (PDF)](files/CV_WangTingwei.pdf)  
 - 🔗 [Google Scholar](#) | [LinkedIn](#) | [ORCID](#)
