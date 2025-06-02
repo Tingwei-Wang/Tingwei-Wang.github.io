@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# Welcome!
+
 I am a graduate student in Management from the University of Chinese Academy of Sciences (2021.09–2024.06), with a strong academic interest in **environmental economics**, **sustainable development policy**, and **data-driven policy evaluation**. I hold a B.A. in Economics from Dalian University of Technology.
 
 My academic training and research assistantships have equipped me with solid foundations in **microeconomics**, **quantitative methods**, and **environmental governance frameworks**. I am proficient in Stata and have beginner experience in R and Python for applied policy analysis.
