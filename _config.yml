@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : |
-  Tingwei Wang  
-  王婷伟
+  name: |
+    Tingwei Wang  
+    王婷伟
   avatar           : "images/myphoto2.jpg"
   bio              : "Graduate student at University of Chinese Academy of Sciences"
   location         : "Beijing, China"
