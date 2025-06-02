@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tingwei Wang's Homepage"
-description              : 
+description              : "Tingwei Wang's Academic Homepage"
 repository               : "Tingwei-Wang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -20,7 +20,6 @@ bing_site_verification   :  # get bing_site_verification from https://www.bing.c
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
-author:
 author:
   name_html: "Tingwei Wang<br>王婷伟"
   avatar           : "images/myphoto2.jpg"
