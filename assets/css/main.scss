@@ -117,3 +117,20 @@ h1:before, .anchor:before {
   text-align: center;
   line-height: 1.4;
 }
+.navigation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.navigation .nav-item {
+  margin: 0 15px;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
