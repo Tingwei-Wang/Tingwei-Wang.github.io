@@ -80,8 +80,3 @@ Currently, I am actively applying for PhD positions in **Environmental Economics
 - **Languages**: Chinese (native), English (fluent)  
 - **Academic Writing**: Research proposals, policy briefs, academic essays
 
-# 📫 Contact
-
-- 📧 Email: wangtingwei21@mails.ucas.ac.cn  
-- 📄 [Download CV (PDF)](files/CV_WangTingwei.pdf)  
-- 🔗 [Google Scholar](#) | [LinkedIn](#) | [ORCID](#)
