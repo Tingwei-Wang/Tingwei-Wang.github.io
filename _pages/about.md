@@ -105,42 +105,43 @@ You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
   </div>
 </div>
 
-- [Summary paper or presentation link (if any)](#), Wang, T., **2024**
+# 📊 Research
 
+<!-- ===== Master's Thesis ===== -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Master Thesis · 2024</div>
+      <img src='images/master-thesis-thumbnail.png' alt="Thesis Thumbnail" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-# 🔍 Experience
+  [The Spatio-temporal Heterogeneity in the Effects of Environmental Regulations on Air Pollution in China](http://www.kjhcy.org/kjycy/article/abstract/20241701?st=article_issue)  
+  **Wang, T.**  
 
-- **Research Assistant**, UCAS, 2022–2023  
-  - Project: *Policy impact evaluation of municipal solid waste regulation in Beijing*  
-  - Tasks: Data cleaning, regression analysis in Stata, drafting policy briefs
+  *Master's Thesis, University of Chinese Academy of Sciences*  
+  - Investigates spatial and temporal heterogeneity of environmental regulation effects using STIRPAT, Spatial Durbin Model, and GTWR.  
+  - Based on panel and survey data from over 200 prefecture-level cities in China.
 
-- **Master’s Thesis (2024)**  
-  - *"Incentive Design and Policy Effectiveness in China's Green Governance: A Comparative Case Study"*
-
-- **Teaching Assistant**, Public Policy and Administration, Fall 2023  
-  - Managed coursework, provided tutorial support on empirical policy analysis
-## 🔍 Research Experience
-
-### Research Assistant  
-**School of Public Policy and Management, University of Chinese Academy of Sciences** · *Beijing*  
-*Sep 2022 – Apr 2024*  
-- Collected and structured panel data on air quality and socio-economic indicators across Chinese prefecture-level cities.  
-- Conducted empirical analyses in Stata on residents’ willingness to pay for clean air, based on large-scale survey data.  
-- Analyzed the nonlinear and spatial spillover effects of heterogeneous environmental regulation intensities (ERIs) on haze pollution using STIRPAT and Spatial Durbin Models.  
-- Applied Geographically and Temporally Weighted Regression (GTWR) to explore spatiotemporal heterogeneity in environmental regulations.  
-- Co-authored a working paper on policy spillover effects (currently under revision).
-
-### Research Assistant  
-**School of Business, Dalian University of Technology** · *Dalian*  
-*Sep 2020 – Jun 2021*  
-- Conducted literature reviews on the new energy vehicle (NEV) industry and economic policy uncertainty (EPU).  
-- Cleaned and analyzed firm-level data to examine how EPU influences R&D investment under financing constraints, using Stata.  
-- Built an indicator framework for the sustainable competitive advantage of the NEV industry.  
-- Applied Fuzzy-DEMATEL-ISM to assess interdependencies among indicators and developed a prototype application.  
-- Co-authored a working paper on competitive dynamics in the NEV sector.
+  </div>
+</div>
 
 ---
 
+## 🗂️ Research Assistantships
+
+- **Research Assistant**, University of Chinese Academy of Sciences · Beijing  
+  *2022.09 – 2024.04*  
+  - Project: *Heterogeneous Environmental Regulations and Haze Pollution in China*  
+  - Tasks: Collected panel data, performed spatial econometrics (SDM, GTWR), survey-based empirical analysis in Stata, co-authored a working paper.
+
+- **Research Assistant**, Dalian University of Technology · Dalian  
+  *2020.09 – 2021.06*  
+  - Project: *Sustainable Competitiveness of China's NEV Industry under Economic Policy Uncertainty*  
+  - Tasks: Literature review, firm-level analysis in Stata, Fuzzy-DEMATEL-ISM modeling, co-authored a framework paper on NEV competitiveness.
+
+---
 ## 🎓 Other Academic Experience
 
 - **Teaching Assistant**, University of Chinese Academy of Sciences · *Beijing*  
