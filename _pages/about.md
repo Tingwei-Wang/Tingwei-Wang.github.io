@@ -57,7 +57,7 @@ Currently, I am actively applying for PhD positions in **Environmental Economics
   </div>
   <div class='paper-box-text' markdown="1">
 
-  [Heterogeneous Effects of Various Environmental Regulation Instruments on Air Pollution: Based on Geodetector Analysis](#)  
+  [Heterogeneous Effects of Various Environmental Regulation Instruments on Air Pollution: Based on Geodetector Analysis]((http://www.kjhcy.org/kjycy/article/abstract/20241701?st=article_issue) )  
   **Wang, T.**, & Lu, C.  
 
   *Science Technology and Industry*, 24(17), 1–6. (In Chinese)  
