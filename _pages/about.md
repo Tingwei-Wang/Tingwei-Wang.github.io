@@ -25,6 +25,8 @@ My academic training and research assistantships have equipped me with solid fou
 
 Currently, I am actively applying for PhD positions in **Environmental Economics**, and I hope to explore the intersection of economic policy and environmental sustainability.
 
+You can find my CV [here](assets/files/Tingwei_Wang_CV.pdf).
+
 # 🔥 News
 
 - *2024.07*  📊 Participated in the **Asian Summer School in Econometrics and Statistics** organized by the Institute for Advanced Economic Research.
