@@ -23,19 +23,19 @@ I am a graduate student in Management from the University of Chinese Academy of 
 
 My academic training and research assistantships have equipped me with solid foundations in **microeconomics**, **quantitative methods**, and **environmental governance frameworks**. I am proficient in Stata and have beginner experience in R and Python for applied policy analysis.
 
-Currently, I am actively applying for PhD positions in **Environmental Economics**, particularly in Hong Kong and Europe (including Erasmus Mundus and funded doctoral posts), where I hope to explore the intersection of economic policy and environmental sustainability.
+Currently, I am actively applying for PhD positions in **Environmental Economics**, and I hope to explore the intersection of economic policy and environmental sustainability.
 
 # 🔥 News
 
-- *2024.07* 📊 Participated in the **Asian Summer School in Econometrics and Statistics** organized by the Institute for Advanced Economic Research.
-- *2024.07* 📚 Participated in the **Summer School of Economics**, School of Economics and Management, UCAS.
-- *2024.01* 🧭 Participated in the **SDC One-day Workshop on Leadership in Public Management**, organized by the Sino-Danish College, UCAS.
-- *2024.06* 🎓 Successfully defended my master’s thesis: *"The Spatio-temporal Heterogeneity in the Effects of Environmental Regulations on Air Pollution in China"*.
-- *2024.04* 📝 Working paper *“Heterogeneous Environmental Regulations and Haze Pollution in China”* (with Chen Lu) released on SSRN.
-- *2023.12* 🏅 Awarded **Outstanding Graduate Student**, UCAS (Top 10%).
-- *2023.04* 🧑‍🏫 Served as **Teaching Assistant** for the graduate-level course *Public Policy and Administration* at UCAS.
-- *2021.06* 📖 Co-authored working paper on the NEV industry: *“Sustainable Competitive Application Framework for New Energy Vehicle Industry Based on Big Data.”*
-- *2021.06* 🎓 Graduated with a **Bachelor of Economics** (Rank: 1/88), Dalian University of Technology. Received **Outstanding Graduate of Dalian** Award.
+- *2024.07*  📊 Participated in the **Asian Summer School in Econometrics and Statistics** organized by the Institute for Advanced Economic Research.
+- *2024.07*  📚 Participated in the **Summer School of Economics**, School of Economics and Management, UCAS.
+- *2024.01*  🧭 Participated in the **SDC One-day Workshop on Leadership in Public Management**, organized by the Sino-Danish College, UCAS.
+- *2024.06*  🎓 Successfully defended my master’s thesis: *"The Spatio-temporal Heterogeneity in the Effects of Environmental Regulations on Air Pollution in China"*.
+- *2024.04*  📝 Working paper *“Heterogeneous Environmental Regulations and Haze Pollution in China”* (with Chen Lu) released on SSRN.
+- *2023.12*  🏅 Awarded **Outstanding Graduate Student**, UCAS (Top 10%).
+- *2023.04*  🧑‍🏫 Served as **Teaching Assistant** for the graduate-level course *Public Policy and Administration* at UCAS.
+- *2021.06*  📖 Co-authored working paper on the NEV industry: *“Sustainable Competitive Application Framework for New Energy Vehicle Industry Based on Big Data.”*
+- *2021.06*  🎓 Graduated with a **Bachelor of Economics** (Rank: 1/88), Dalian University of Technology. Received **Outstanding Graduate of Dalian** Award.
 # 🔥 News
 
 - *2024.06* 🎓 Successfully defended my master’s thesis: *"The Spatio-temporal Heterogeneity in the Effects of Environmental Regulations on Air Pollution in China"* at [UCAS](https://english.ucas.ac.cn/).
