@@ -29,22 +29,22 @@ You can find my CV [here](assets/files/Tingwei_Wang_CV.pdf).
 
 # 🔥 News
 
-- *2024.07*  📊 Participated in the **Asian Summer School in Econometrics and Statistics** organized by the Institute for Advanced Economic Research.
-- *2024.07*  📚 Participated in the **Summer School of Economics**, School of Economics and Management, UCAS.
-- *2024.01*  🧭 Participated in the **SDC One-day Workshop on Leadership in Public Management**, organized by the Sino-Danish College, UCAS.
-- *2024.06*  🎓 Successfully defended my master’s thesis: *"The Spatio-temporal Heterogeneity in the Effects of Environmental Regulations on Air Pollution in China"*.
-- *2024.04*  📝 Working paper *“Heterogeneous Environmental Regulations and Haze Pollution in China”* (with Chen Lu) released on SSRN.
-- *2023.12*  🏅 Awarded **Outstanding Graduate Student**, UCAS (Top 10%).
-- *2023.04*  🧑‍🏫 Served as **Teaching Assistant** for the graduate-level course *Public Policy and Administration* at UCAS.
-- *2021.06*  📖 Co-authored working paper on the NEV industry: *“Sustainable Competitive Application Framework for New Energy Vehicle Industry Based on Big Data.”*
-- *2021.06*  🎓 Graduated with a **Bachelor of Economics** (Rank: 1/88), Dalian University of Technology. Received **Outstanding Graduate of Dalian** Award.
+- *2024.07*&nbsp;&nbsp;&nbsp;📊 Participated in the **Asian Summer School in Econometrics and Statistics** organized by the Institute for Advanced Economic Research.
+- *2024.07*&nbsp;&nbsp;&nbsp;📚 Participated in the **Summer School of Economics**, School of Economics and Management, UCAS.
+- *2024.01*&nbsp;&nbsp;&nbsp;🧭 Participated in the **SDC One-day Workshop on Leadership in Public Management**, organized by the Sino-Danish College, UCAS.
+- *2024.06*&nbsp;&nbsp;&nbsp;🎓 Successfully defended my master’s thesis: *"The Spatio-temporal Heterogeneity in the Effects of Environmental Regulations on Air Pollution in China"*.
+- *2024.04*&nbsp;&nbsp;&nbsp;📝 Working paper *“Heterogeneous Environmental Regulations and Haze Pollution in China”* (with Chen Lu) released on SSRN.
+- *2023.12*&nbsp;&nbsp;&nbsp;🏅 Awarded **Outstanding Graduate Student**, UCAS (Top 10%).
+- *2023.04*&nbsp;&nbsp;&nbsp;🏫 Served as **Teaching Assistant** for the graduate-level course *Public Policy and Administration* at UCAS.
+- *2021.06*&nbsp;&nbsp;&nbsp;📖 Co-authored working paper on the NEV industry: *“Sustainable Competitive Application Framework for New Energy Vehicle Industry Based on Big Data.”*
+- *2021.06*&nbsp;&nbsp;&nbsp;🎓 Graduated with a **Bachelor of Economics** (Rank: 1/88), Dalian University of Technology. Received **Outstanding Graduate of Dalian** Award.
 # 🔥 News
 
 - *2024.06* 🎓 Successfully defended my master’s thesis: *"The Spatio-temporal Heterogeneity in the Effects of Environmental Regulations on Air Pollution in China"* at [UCAS](https://english.ucas.ac.cn/).
 - *2024.04* 📝 Working paper *“Heterogeneous Environmental Regulations and Haze Pollution in China: A Nonlinear and Spatial Analysis of Political Factors”* (with Chen Lu) released on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4742760).
 - *2024.03* 📄 First-author paper accepted by *Science Technology and Industry* (In Chinese): *“The heterogeneous effects of multiple environmental regulation tools on air pollution: Evidence from geographical detector analysis”*.
 - *2024.01* 📢 Participated in the [SDC Workshop on Leadership in Public Management](https://sdc.university/) hosted by the Sino-Danish College, UCAS.
-- *2023.09* 🧑‍🏫 Served as a teaching assistant for *Public Policy and Administration* at [UCAS School of Public Policy and Management](https://sppm.ucas.ac.cn/).
+- *2023.09* 🏫 Served as a teaching assistant for *Public Policy and Administration* at [UCAS School of Public Policy and Management](https://sppm.ucas.ac.cn/).
 - *2023.07* 🏅 Awarded *Outstanding Graduate Student* by the University of Chinese Academy of Sciences (Top 10%).
 - *2021.06* 🎓 Graduated from Dalian University of Technology (Ranked 1st / 88 in Economics), awarded *Outstanding Graduate of Dalian* by the [Dalian Education Bureau](http://jyj.dl.gov.cn/).
 
