@@ -30,12 +30,12 @@ You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
 # 🔥 News
 
 
-- *2024.09* 📄 First-author paper accepted by *Science Technology and Industry* (In Chinese): *“Heterogeneous Effects of Various Environmental Regulation Instruments on Air Pollution: Based on Geodetector Analysis”*.
-- *2024.06* 🎓 Successfully defended my master’s thesis: *"The Spatio-temporal Heterogeneity in the Effects of Environmental Regulations on Air Pollution in China"* at [UCAS](https://english.ucas.ac.cn/).
-- *2024.02* 📝 Working paper *“Heterogeneous Environmental Regulations and Haze Pollution in China: A Nonlinear and Spatial Analysis of Political Factors”* (with Chen Lu) released on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4742760).
-- *2024.01* 📢 Participated in the [SDC Workshop on Leadership in Public Management](https://sdc.university/) hosted by the Sino-Danish College, UCAS.
-- *2023.07* 🏅 Awarded *Outstanding Graduate Student* by the University of Chinese Academy of Sciences (Top 10%).
-- *2021.06* 🎓 Graduated from Dalian University of Technology (Ranked 1st / 88 in Economics), awarded *Outstanding Graduate of Dalian* by the [Dalian Education Bureau](http://jyj.dl.gov.cn/).
+- *2024.09* &nbsp;&nbsp;&nbsp;📄 First-author paper accepted by *Science Technology and Industry* (In Chinese): *“Heterogeneous Effects of Various Environmental Regulation Instruments on Air Pollution: Based on Geodetector Analysis”*.
+- *2024.06* &nbsp;&nbsp;&nbsp;🎓 Successfully defended my master’s thesis: *"The Spatio-temporal Heterogeneity in the Effects of Environmental Regulations on Air Pollution in China"* at [UCAS](https://english.ucas.ac.cn/).
+- *2024.02* &nbsp;&nbsp;&nbsp;📝 Working paper *“Heterogeneous Environmental Regulations and Haze Pollution in China: A Nonlinear and Spatial Analysis of Political Factors”* (with Chen Lu) released on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4742760).
+- *2024.01* &nbsp;&nbsp;&nbsp;📢 Participated in the [SDC Workshop on Leadership in Public Management](https://sdc.university/) hosted by the Sino-Danish College, UCAS.
+- *2023.07* &nbsp;&nbsp;&nbsp;🏅 Awarded *Outstanding Graduate Student* by the University of Chinese Academy of Sciences (Top 10%).
+- *2021.06* &nbsp;&nbsp;&nbsp;🎓 Graduated from Dalian University of Technology (Ranked 1st / 88 in Economics), awarded *Outstanding Graduate of Dalian* by the [Dalian Education Bureau](http://jyj.dl.gov.cn/).
 
 # 📝 Publications 
 
