@@ -27,8 +27,9 @@ Currently, I am actively applying for PhD positions in **Environmental Economics
 
 You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
 
-# 🔥 News
+---
 
+# 🔥 News
 
 - *2024.09* &nbsp;&nbsp;&nbsp;📄 First-author paper accepted by *Science Technology and Industry* (In Chinese): *“Heterogeneous Effects of Various Environmental Regulation Instruments on Air Pollution: Based on Geodetector Analysis”*.
 - *2024.06* &nbsp;&nbsp;&nbsp;🎓 Successfully defended my master’s thesis: *"The Spatio-temporal Heterogeneity in the Effects of Environmental Regulations on Air Pollution in China"* at [UCAS](https://english.ucas.ac.cn/).
@@ -36,6 +37,8 @@ You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
 - *2024.01* &nbsp;&nbsp;&nbsp;📢 Participated in the [SDC Workshop on Leadership in Public Management](https://sdc.university/) hosted by the Sino-Danish College, UCAS.
 - *2023.07* &nbsp;&nbsp;&nbsp;🏅 Awarded *Outstanding Graduate Student* by the University of Chinese Academy of Sciences (Top 10%).
 - *2021.06* &nbsp;&nbsp;&nbsp;🎓 Graduated from Dalian University of Technology (Ranked 1st / 88 in Economics), awarded *Outstanding Graduate of Dalian* by the [Dalian Education Bureau](http://jyj.dl.gov.cn/).
+
+---
 
 # 📝 Publications 
 
@@ -94,6 +97,8 @@ You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
   </div>
 </div>
 
+---
+
 <span class="anchor" id="experience"></span>
 # 🧭 Experience
 
@@ -115,6 +120,7 @@ You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
   - Tasks: Literature review; firm-level data analysis; Fuzzy-DEMATEL-ISM modeling; co-authored a working paper
 
 ---
+
 ## 🎓 Other Academic Experience
 
 - **Teaching Assistant**, University of Chinese Academy of Sciences · *Beijing*  
@@ -139,10 +145,7 @@ You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
 - **SDC One-day Workshop on Leadership in Public Management**  
   *Sino-Danish College, UCAS · Beijing · Jan 2024*
 
-
-# 📖 Educations
-- 🎓 *2021.09 – 2024.06*, Master of Management Science, University of Chinese Academy of Sciences, Beijing, China
-- 🎓 *2017.09 – 2021.06*, Bachelor of Economics, Dalian University of Technology, Dalian, China
+---
 
 # 🎖 Honors and Awards
 - *2023* — Outstanding Graduate Student, University of Chinese Academy of Sciences (Top 10%)
@@ -157,3 +160,9 @@ You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
 - *2018* — Science and Technology Innovation Scholarship, Dalian University of Technology (Top 10%)
 - *2018* — Second Prize, Certificate Authority Cup International Mathematical Contest in Modeling
 - *2018* — Second Prize, 27th Dalian College Students Advanced Mathematics Competition
+
+---
+
+# 📖 Educations
+- 🎓 *2021.09 – 2024.06*, Master of Management Science, University of Chinese Academy of Sciences, Beijing, China
+- 🎓 *2017.09 – 2021.06*, Bachelor of Economics, Dalian University of Technology, Dalian, China
