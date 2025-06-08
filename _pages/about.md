@@ -25,7 +25,7 @@ My academic training and research assistantships have equipped me with solid fou
 
 Currently, I am actively applying for PhD positions in **Environmental Economics**, and I hope to explore the intersection of economic policy and environmental sustainability.
 
-You can find my CV [here](assets/files/Tingwei_Wang_CV.pdf).
+You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
 
 # 🔥 News
 
