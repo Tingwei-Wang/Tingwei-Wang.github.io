@@ -105,27 +105,27 @@ You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
   </div>
 </div>
 
-# 📊 Research
+# 🧭 Experience
 
-<!-- ===== Master's Thesis ===== -->
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Master Thesis · 2024</div>
-      <img src='images/master-thesis-thumbnail.png' alt="Thesis Thumbnail" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+## 📊 Research Experience
 
-  [The Spatio-temporal Heterogeneity in the Effects of Environmental Regulations on Air Pollution in China](http://www.kjhcy.org/kjycy/article/abstract/20241701?st=article_issue)  
-  **Wang, T.**  
+- **Master’s Thesis (2024)**  
+  *"The Spatio-temporal Heterogeneity in the Effects of Environmental Regulations on Air Pollution in China"*  
+  - Investigates heterogeneous impacts of ERIs using Geodetector, Spatial Durbin Model, and GTWR across 100+ Chinese cities  
+  - Supervised by Prof. Chen Lu, UCAS  
 
-  *Master's Thesis, University of Chinese Academy of Sciences*  
+- **Research Assistant**, School of Public Policy and Management, UCAS  
+  *2022.09 – 2024.04 · Beijing*  
+  - Project: *Willingness to Pay for Clean Air & Environmental Regulation Spillovers in China*  
+  - Tasks: Collected panel and survey data; conducted empirical analysis in Stata; applied GTWR and spatial models; co-authored a working paper
+
+- **Research Assistant**, School of Business, Dalian University of Technology  
+  *2020.09 – 2021.06 · Dalian*  
+  - Project: *New Energy Vehicle Industry & Economic Policy Uncertainty*  
+  - Tasks: Literature review; firm-level data analysis; Fuzzy-DEMATEL-ISM modeling; co-authored a working paper
+ 
   - Investigates spatial and temporal heterogeneity of environmental regulation effects using STIRPAT, Spatial Durbin Model, and GTWR.  
   - Based on panel and survey data from over 200 prefecture-level cities in China.
-
-  </div>
-</div>
 
 ---
 
