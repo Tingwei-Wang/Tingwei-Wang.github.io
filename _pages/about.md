@@ -116,8 +116,11 @@ You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
 
 - **Research Assistant**, [School of Business, Dalian University of Technology](http://business.dlut.edu.cn/en/)
   *2020.09 – 2021.06 · Dalian*  
-  - Project: *New Energy Vehicle Industry & Economic Policy Uncertainty*  
   - Tasks: Literature review; firm-level data analysis; Fuzzy-DEMATEL-ISM modeling; co-authored a working paper
+  - Reviewed literature on the new energy vehicle (NEV) industry and economic policy uncertainty (EPU).
+  - Analyzed firm-level data to examine EPU’s effect on R&D investment under financing constraints.
+  - Built a competitiveness framework using Fuzzy-DEMATEL-ISM and developed a prototype evaluation model.
+  - Co-authored a working paper on competitive dynamics in the NEV sector.
 
 ---
 
