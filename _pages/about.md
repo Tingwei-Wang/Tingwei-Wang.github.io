@@ -102,7 +102,7 @@ You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
 <span class="anchor" id="experience"></span>
 # 👩‍🏫 Experience
 
-## 📊 Research Experience
+## 💻 Research Experience
 
 - **Master’s Thesis (2024)**  
   *"The Spatio-temporal Heterogeneity in the Effects of Environmental Regulations on Air Pollution in China"*  
