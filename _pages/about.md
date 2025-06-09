@@ -56,7 +56,7 @@ You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
 
   *Science Technology and Industry*, 24(17), 1–6. (In Chinese)  
 
-  - Explores spatial heterogeneity of environmental regulations using geographical detector analysis.
+  - Identifies spatial heterogeneity in how different environmental regulation instruments affect air pollution across Chinese cities using Geodetector analysis.
 
   </div>
 </div>
@@ -75,7 +75,7 @@ You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
 
   SSRN Preprint 4742760.  
 
-  - Analyzes nonlinear and spatial spillover effects of political factors on haze pollution.
+  - Analyzes nonlinear and spatial spillover effects of environmental regulations on haze pollution in China, incorporating political factors.
 
   </div>
 </div>
@@ -92,7 +92,7 @@ You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
   Sustainable Competitive Application Framework for New Energy Vehicle Industry Based on Big Data  
   **Wang, T.**, & Xue, X.  
 
-  - Proposes an indicator framework and uses big data methods to analyze the NEV industry competitiveness.
+  - Builds a multi-level indicator framework using Fuzzy Set Theory, DEMATEL, and ISM to guide NEV industry’s sustainable application of big data.
 
   </div>
 </div>
@@ -106,7 +106,7 @@ You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
 
 - **Master’s Thesis (2024)**  
   [*"The Spatio-temporal Heterogeneity in the Effects of Environmental Regulations on Air Pollution in China"*](http://dpaper.las.ac.cn/detail/detail_s?paperID=20240873&title=%E7%8E%AF%E5%A2%83%E8%A7%84%E5%88%B6%E5%AF%B9%E7%8E%AF%E4%BF%9D%E9%87%8D%E7%82%B9%E5%9F%8E%E5%B8%82%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93%E5%BD%B1%E5%93%8D%E7%9A%84%E6%97%B6%E7%A9%BA%E5%BC%82%E8%B4%A8%E6%80%A7%E7%A0%94%E7%A9%B6&author=%E7%8E%8B%E5%A9%B7%E4%BC%9F&highsearch=title_all%253A345345345%25E7%258E%25AF%25E5%25A2%2583%25E8%25A7%2584%25E5%2588%25B6%25E5%25AF%25B9%25E7%258E%25AF%25E4%25BF%259D%25E9%2587%258D%25E7%2582%25B9%25E5%259F%258E%25E5%25B8%2582%25E7%25A9%25BA%25E6%25B0%2594%25E6%25B1%25A1%25E6%259F%2593%25E5%25BD%25B1%25E5%2593%258D%25E7%259A%2584%25E6%2597%25B6%25E7%25A9%25BA%25E5%25BC%2582%25E8%25B4%25A8%25E6%2580%25A7%25E7%25A0%2594%25E7%25A9%25B6345345345&sortField=score%2520desc%252Cid&start=0&actionType=Browse&searchText=%E7%8E%AF%E5%A2%83%E8%A7%84%E5%88%B6%E5%AF%B9%E7%8E%AF%E4%BF%9D%E9%87%8D%E7%82%B9%E5%9F%8E%E5%B8%82%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93%E5%BD%B1%E5%93%8D%E7%9A%84%E6%97%B6%E7%A9%BA%E5%BC%82%E8%B4%A8%E6%80%A7%E7%A0%94%E7%A9%B6)
-  - Investigates heterogeneous impacts of ERIs using GTWR across 100+ Chinese cities.
+  - Explores the spatio-temporal heterogeneity of environmental regulation effects on air pollution in China, combining GTWR and Geodetector to identify key influencing factors
   - Supervised by [Prof. Chen Lu, UCAS](https://people.ucas.ac.cn/~lvchen?language=en)  
 
 - **Research Assistant**, [School of Public Policy and Management, UCAS](https://sppm.ucas.ac.cn/)
