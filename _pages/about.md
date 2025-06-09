@@ -19,11 +19,13 @@ redirect_from:
 
 # Welcome!
 
-I am a graduate student in Management Science from the [University of Chinese Academy of Sciences]() (2021.09–2024.06), with a strong academic interest in **environmental economics**, **sustainable development policy**, and **data-driven policy evaluation**. I hold a B.A. in Economics from Dalian University of Technology.
+# Welcome!
 
-My academic training and research assistantships have equipped me with solid foundations in **microeconomics**, **quantitative methods**, and **environmental governance frameworks**. I am proficient in Stata and have beginner experience in R and Python for applied policy analysis.
+I am a graduate with a Master of Management Science from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), and a Bachelor of Economics from [Dalian University of Technology](http://en.dlut.edu.cn/). My main academic interests include **environmental economics**, **sustainable development policy**, and **data-driven policy evaluation**.
 
-Currently, I am actively applying for PhD positions in **Environmental Economics**, and I hope to explore the intersection of economic policy and environmental sustainability.
+Through my academic training and research assistant experiences, I have built a solid foundation in **microeconomics**, **quantitative methods**, and **environmental governance frameworks**. I am proficient in Stata and have beginner-level experience in R and Python for applied policy analysis.
+
+I am currently applying for PhD programs in **Environmental Economics**, where I hope to further explore the intersection of economic policy and environmental sustainability.
 
 You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
 
