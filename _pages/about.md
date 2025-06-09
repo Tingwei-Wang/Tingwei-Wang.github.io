@@ -31,12 +31,12 @@ You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
 
 # 📣 News
 
-- *2024.09* &nbsp;&nbsp;&nbsp;📄 First-author paper accepted by *Science Technology and Industry* (In Chinese): *“Heterogeneous Effects of Various Environmental Regulation Instruments on Air Pollution: Based on Geodetector Analysis”*.
-- *2024.06* &nbsp;&nbsp;&nbsp;🎓 Successfully defended my master’s thesis: *"The Spatio-temporal Heterogeneity in the Effects of Environmental Regulations on Air Pollution in China"* at [UCAS](https://english.ucas.ac.cn/).
+- *2024.09* &nbsp;&nbsp;&nbsp;📄 First-author paper accepted by *Science Technology and Industry* (In Chinese): [*“Heterogeneous Effects of Various Environmental Regulation Instruments on Air Pollution: Based on Geodetector Analysis”*](http://www.kjhcy.org/kjycy/article/abstract/20241701?st=article_issue).
+- *2024.05* &nbsp;&nbsp;&nbsp;🎓 Successfully defended my master’s thesis: [*"The Spatio-temporal Heterogeneity in the Effects of Environmental Regulations on Air Pollution in China"*](http://dpaper.las.ac.cn/detail/detail_s?paperID=20240873&title=%E7%8E%AF%E5%A2%83%E8%A7%84%E5%88%B6%E5%AF%B9%E7%8E%AF%E4%BF%9D%E9%87%8D%E7%82%B9%E5%9F%8E%E5%B8%82%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93%E5%BD%B1%E5%93%8D%E7%9A%84%E6%97%B6%E7%A9%BA%E5%BC%82%E8%B4%A8%E6%80%A7%E7%A0%94%E7%A9%B6&author=%E7%8E%8B%E5%A9%B7%E4%BC%9F&highsearch=title_all%253A345345345%25E7%258E%25AF%25E5%25A2%2583%25E8%25A7%2584%25E5%2588%25B6%25E5%25AF%25B9%25E7%258E%25AF%25E4%25BF%259D%25E9%2587%258D%25E7%2582%25B9%25E5%259F%258E%25E5%25B8%2582%25E7%25A9%25BA%25E6%25B0%2594%25E6%25B1%25A1%25E6%259F%2593%25E5%25BD%25B1%25E5%2593%258D%25E7%259A%2584%25E6%2597%25B6%25E7%25A9%25BA%25E5%25BC%2582%25E8%25B4%25A8%25E6%2580%25A7%25E7%25A0%2594%25E7%25A9%25B6345345345&sortField=score%2520desc%252Cid&start=0&actionType=Browse&searchText=%E7%8E%AF%E5%A2%83%E8%A7%84%E5%88%B6%E5%AF%B9%E7%8E%AF%E4%BF%9D%E9%87%8D%E7%82%B9%E5%9F%8E%E5%B8%82%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93%E5%BD%B1%E5%93%8D%E7%9A%84%E6%97%B6%E7%A9%BA%E5%BC%82%E8%B4%A8%E6%80%A7%E7%A0%94%E7%A9%B6) at UCAS.
 - *2024.02* &nbsp;&nbsp;&nbsp;📝 Working paper *“Heterogeneous Environmental Regulations and Haze Pollution in China: A Nonlinear and Spatial Analysis of Political Factors”* (with Chen Lu) released on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4742760).
-- *2024.01* &nbsp;&nbsp;&nbsp;📢 Participated in the [SDC Workshop on Leadership in Public Management](https://sdc.university/) hosted by the Sino-Danish College, UCAS.
+- *2024.01* &nbsp;&nbsp;&nbsp;📢 Participated in the SDC Workshop on Leadership in Public Management hosted by the [Sino-Danish College, UCAS](https://sdc.university/).
 - *2023.07* &nbsp;&nbsp;&nbsp;🏅 Awarded *Outstanding Graduate Student* by the University of Chinese Academy of Sciences (Top 10%).
-- *2021.06* &nbsp;&nbsp;&nbsp;🎓 Graduated from Dalian University of Technology (Ranked 1st / 88 in Economics), awarded *Outstanding Graduate of Dalian* by the [Dalian Education Bureau](http://jyj.dl.gov.cn/).
+- *2021.06* &nbsp;&nbsp;&nbsp;🎓 Graduated from [Dalian University of Technology](https://en.dlut.edu.cn/) (Ranked 1st / 88 in Economics), awarded *Outstanding Graduate of Dalian* by the Dalian Education Bureau.
 
 ---
 
@@ -107,12 +107,12 @@ You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
 - **Master’s Thesis (2024)**  
   *"The Spatio-temporal Heterogeneity in the Effects of Environmental Regulations on Air Pollution in China"*  
   - Investigates heterogeneous impacts of ERIs using GTWR across 100+ Chinese cities.
-  - Supervised by Prof. Chen Lu, UCAS  
+  - Supervised by [Prof. Chen Lu, UCAS](https://people.ucas.ac.cn/~lvchen?language=en)  
 
 - **Research Assistant**, School of Public Policy and Management, UCAS  
   *2022.09 – 2024.04 · Beijing*  
-  - Project: *Willingness to Pay for Clean Air & Environmental Regulation Spillovers in China*  
-  - Tasks: Collected panel and survey data; conducted empirical analysis in Stata; applied GTWR and spatial models; co-authored a working paper
+  - Project: *Mechanism and Regulation of Regional Economic and Social Development on Pm2.5 Concentration from the Perspective of Residents' Health*  
+  - Tasks: Collected panel data; Data cleaning; conducted empirical analysis in Stata; co-authored a working paper
 
 - **Research Assistant**, School of Business, Dalian University of Technology  
   *2020.09 – 2021.06 · Dalian*  
@@ -124,42 +124,42 @@ You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
 ## 🎓 Other Academic Experience
 
 - **Teaching Assistant**, University of Chinese Academy of Sciences · *Beijing*  
-  *Sep 2022 – Apr 2023*
+  *2022.09 – 2023.04*
 
 - **Training Assistant**, Training Center, University of Chinese Academy of Sciences · *Beijing*  
-  *Apr 2023 – Jun 2023*
+  *2023.04 – 2023.06*
 
 - **Project Leader**, Provincial Undergraduate Innovation Training Program, Dalian University of Technology · *Dalian*  
-  *Mar 2019 – Mar 2020*
+  *2019.03 – 2020.03*
 
 ---
 
 ## 📚 Workshops & Summer Schools
 
 - **2024 Asian Summer School in Econometrics and Statistics**  
-  *Institute for Advanced Economic Research · Dalian · Jul 2024*
+  *Institute for Advanced Economic Research · Dalian · 2024.07*
 
 - **Summer School of Economics**  
-  *School of Economics and Management, UCAS · Beijing · Jul 2024*
+  *School of Economics and Management, UCAS · Beijing · 2024.07*
 
 - **SDC One-day Workshop on Leadership in Public Management**  
-  *Sino-Danish College, UCAS · Beijing · Jan 2024*
+  *Sino-Danish College, UCAS · Beijing · 2024.01*
 
 ---
 
 # 🏅 Honors and Awards
-- *2023* — Outstanding Graduate Student, University of Chinese Academy of Sciences (Top 10%)
-- *2021* — Outstanding Graduate of Dalian Municipality, awarded by Dalian Education Bureau (Top 3%)
-- *2021* — Outstanding Graduate, Dalian University of Technology (Top 10%)
-- *2020* — Undergraduate Scholarship for Outstanding Summer Camp Participants (Top 5%)
-- *2018–2020* — National Encouragement Scholarship, Ministry of Education of the PRC (Three-time recipient; Top 5%)
-- *2018–2020* — Academic Excellence Scholarship, Dalian University of Technology (Top 5%)
-- *2019* — Outstanding Student, Dalian University of Technology (Top 5%)
-- *2019* — Social Work Scholarship, Dalian University of Technology (Top 10%)
-- *2018–2019* — Social Practice Scholarship, Dalian University of Technology (Top 10%)
-- *2018* — Science and Technology Innovation Scholarship, Dalian University of Technology (Top 10%)
-- *2018* — Second Prize, Certificate Authority Cup International Mathematical Contest in Modeling
-- *2018* — Second Prize, 27th Dalian College Students Advanced Mathematics Competition
+- *2023*  Outstanding Graduate Student, University of Chinese Academy of Sciences (Top 10%)
+- *2021*  Outstanding Graduate of Dalian Municipality, awarded by Dalian Education Bureau (Top 3%)
+- *2021*  Outstanding Graduate, Dalian University of Technology (Top 10%)
+- *2020*  Undergraduate Scholarship for Outstanding Summer Camp Participants (Top 5%)
+- *2018–2020*  National Encouragement Scholarship, Ministry of Education of the PRC (Three-time recipient; Top 5%)
+- *2018–2020*  Academic Excellence Scholarship, Dalian University of Technology (Top 5%)
+- *2019*  Outstanding Student, Dalian University of Technology (Top 5%)
+- *2019*  Social Work Scholarship, Dalian University of Technology (Top 10%)
+- *2018–2019*  Social Practice Scholarship, Dalian University of Technology (Top 10%)
+- *2018*  Science and Technology Innovation Scholarship, Dalian University of Technology (Top 10%)
+- *2018*  Second Prize, Certificate Authority Cup International Mathematical Contest in Modeling
+- *2018*  Second Prize, 27th Dalian College Students Advanced Mathematics Competition
 
 ---
 
