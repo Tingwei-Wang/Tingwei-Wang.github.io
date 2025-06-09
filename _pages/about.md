@@ -89,7 +89,7 @@ You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
   </div>
   <div class='paper-box-text' markdown="1">
 
-  [Sustainable Competitive Application Framework for New Energy Vehicle Industry Based on Big Data](#)  
+  Sustainable Competitive Application Framework for New Energy Vehicle Industry Based on Big Data  
   **Wang, T.**, & Xue, X.  
 
   - Proposes an indicator framework and uses big data methods to analyze the NEV industry competitiveness.
