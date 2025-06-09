@@ -29,7 +29,7 @@ You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
 
 ---
 
-# 🔥 News
+# 📣 News
 
 - *2024.09* &nbsp;&nbsp;&nbsp;📄 First-author paper accepted by *Science Technology and Industry* (In Chinese): *“Heterogeneous Effects of Various Environmental Regulation Instruments on Air Pollution: Based on Geodetector Analysis”*.
 - *2024.06* &nbsp;&nbsp;&nbsp;🎓 Successfully defended my master’s thesis: *"The Spatio-temporal Heterogeneity in the Effects of Environmental Regulations on Air Pollution in China"* at [UCAS](https://english.ucas.ac.cn/).
@@ -100,7 +100,7 @@ You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
 ---
 
 <span class="anchor" id="experience"></span>
-# 🧭 Experience
+# 👩‍🏫 Experience
 
 ## 📊 Research Experience
 
@@ -147,7 +147,7 @@ You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
 
 ---
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2023* — Outstanding Graduate Student, University of Chinese Academy of Sciences (Top 10%)
 - *2021* — Outstanding Graduate of Dalian Municipality, awarded by Dalian Education Bureau (Top 3%)
 - *2021* — Outstanding Graduate, Dalian University of Technology (Top 10%)
