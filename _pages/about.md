@@ -19,7 +19,7 @@ redirect_from:
 
 # Welcome!
 
-I am a graduate student in Management from the University of Chinese Academy of Sciences (2021.09–2024.06), with a strong academic interest in **environmental economics**, **sustainable development policy**, and **data-driven policy evaluation**. I hold a B.A. in Economics from Dalian University of Technology.
+I am a graduate student in Management Science from the [University of Chinese Academy of Sciences]() (2021.09–2024.06), with a strong academic interest in **environmental economics**, **sustainable development policy**, and **data-driven policy evaluation**. I hold a B.A. in Economics from Dalian University of Technology.
 
 My academic training and research assistantships have equipped me with solid foundations in **microeconomics**, **quantitative methods**, and **environmental governance frameworks**. I am proficient in Stata and have beginner experience in R and Python for applied policy analysis.
 
@@ -109,12 +109,12 @@ You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
   - Investigates heterogeneous impacts of ERIs using GTWR across 100+ Chinese cities.
   - Supervised by [Prof. Chen Lu, UCAS](https://people.ucas.ac.cn/~lvchen?language=en)  
 
-- **Research Assistant**, School of Public Policy and Management, UCAS  
+- **Research Assistant**, [School of Public Policy and Management, UCAS](https://sppm.ucas.ac.cn/)
   *2022.09 – 2024.04 · Beijing*  
   - Project: *Mechanism and Regulation of Regional Economic and Social Development on Pm2.5 Concentration from the Perspective of Residents' Health*  
   - Tasks: Collected panel data; Data cleaning; conducted empirical analysis in Stata; co-authored a working paper
 
-- **Research Assistant**, School of Business, Dalian University of Technology  
+- **Research Assistant**, [School of Business, Dalian University of Technology](http://business.dlut.edu.cn/en/)
   *2020.09 – 2021.06 · Dalian*  
   - Project: *New Energy Vehicle Industry & Economic Policy Uncertainty*  
   - Tasks: Literature review; firm-level data analysis; Fuzzy-DEMATEL-ISM modeling; co-authored a working paper
