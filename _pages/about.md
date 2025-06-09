@@ -19,13 +19,11 @@ redirect_from:
 
 # Welcome!
 
-# Welcome!
+I am a graduate with a Master of Management Science from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), and a Bachelor of Economics from [Dalian University of Technology](http://en.dlut.edu.cn/). My main academic interests include **environmental economics**, **applied microeconomics**, and **policy evaluation for sustainable development**.
 
-I am a graduate with a Master of Management Science from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), and a Bachelor of Economics from [Dalian University of Technology](http://en.dlut.edu.cn/). My main academic interests include **environmental economics**, **sustainable development policy**, and **data-driven policy evaluation**.
+Through my academic training and research assistant experiences, I have built a solid foundation in **microeconometric analysis**, **quantitative methods**, and **environmental governance**. I am proficient in Stata and have practical experience with R and Python for applied policy analysis and empirical research.
 
-Through my academic training and research assistant experiences, I have built a solid foundation in **microeconomics**, **quantitative methods**, and **environmental governance frameworks**. I am proficient in Stata and have beginner-level experience in R and Python for applied policy analysis.
-
-I am currently applying for PhD programs in **Environmental Economics**, where I hope to further explore the intersection of economic policy and environmental sustainability.
+I am currently seeking PhD opportunities in **environmental economics** and **applied microeconomics**, with a strong interest in interdisciplinary programs at the intersection of **economics**, **climate policy**, and **sustainable development**. I aim to contribute to research that addresses pressing environmental challenges through rigorous economic analysis and innovative policy design.
 
 You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
 
