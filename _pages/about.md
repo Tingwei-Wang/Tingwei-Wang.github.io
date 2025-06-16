@@ -148,7 +148,7 @@ You can find my CV [here](assets/Tingwei_Wang_CV.pdf).
 
 # 🏅 Honors and Awards
 - *2023*  &nbsp;&nbsp;&nbsp;Outstanding Graduate Student, University of Chinese Academy of Sciences (Top 10%)
-- *2021*  &nbsp;&nbsp;&nbsp;Outstanding Graduate of Dalian Municipality, awarded by Dalian Education Bureau (Top 3%)
+- *2021*  &nbsp;&nbsp;&nbsp;Outstanding Graduate of Dalian Municipality, Dalian Education Bureau (Top 3%)
 - *2021*  &nbsp;&nbsp;&nbsp;Outstanding Graduate, Dalian University of Technology (Top 10%)
 - *2020*  &nbsp;&nbsp;&nbsp;Undergraduate Scholarship for Outstanding Summer Camp Participants (Top 5%)
 - *2018–2020*  &nbsp;&nbsp;&nbsp;National Encouragement Scholarship, Ministry of Education of the PRC (Three-time recipient; Top 5%)
